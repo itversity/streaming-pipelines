@@ -1,6 +1,7 @@
 .idea
 /sp-venv/
 /images/hadoopspark/softwares/
+/images/kafka/softwares/
 .ipynb_checkpoints
 .DS_Store
 /archive/
